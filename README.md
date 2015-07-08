@@ -1,6 +1,4 @@
 # ActiveJob
-## and
-# sidekiq
 
 ---
 
